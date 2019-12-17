@@ -5,6 +5,5 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+An aspiring data analyst with experience in Python, Java and Javascript.
+Interested to look at everything related to data, and working on projects that can make a difference!

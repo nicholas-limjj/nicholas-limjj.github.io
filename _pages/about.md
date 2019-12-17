@@ -1,8 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/zakim.jpg"
 ---
 
 An aspiring data analyst with experience in Python, Java and Javascript.
